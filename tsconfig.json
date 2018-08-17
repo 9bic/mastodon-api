@@ -17,8 +17,7 @@
     "strict": true,
     "types": [
       "node"
-    ],
-    "typeRoots": ["./typings"]
+    ]
   },
   "exclude": [
     "node_modules",
